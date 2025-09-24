@@ -1,0 +1,4 @@
+/* 消息框本体向下偏移一点（自由调） */
+.el-message-box.custom-box-top {
+    margin-top: -46vh !important;
+}
