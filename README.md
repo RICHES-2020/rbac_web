@@ -7,20 +7,27 @@
 - 基于 pureadmin 精简版 开发
 
 
+全局安装
+
+```sh
+npm install -g @pureadmin/cli
+```
+
+
 ### 安装依赖
 ```sh
-	cd rbac_web
-	pnpm install
+cd rbac_web
+pnpm install
 ```
 ### 启动平台
 
 ```sh
-	pnpm dev
+pnpm dev
 ```
 ### 项目打包
 
 ```sh
-	pnpm build
+pnpm build
 ```
 
 ### 许可证
